@@ -10,7 +10,6 @@
 
 Scrappy API Core is the core application layer of Scrappy, a production-grade asynchronous web scraping service. This repository contains the clean, optimized application code without development tools, examples, or Docker configurations.
 
-For comprehensive documentation, examples, and deployment guides, see the [Scrappy Project](https://github.com/sam/scrappy).
 
 ## Quick Overview
 
