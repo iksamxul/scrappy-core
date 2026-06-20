@@ -151,11 +151,4 @@ For production deployment, see the [main Scrappy documentation](https://github.c
 
 ## License
 
-MIT © 2026 Sam
-
-## Repository Links
-
-- **Full Project**: https://github.com/sam/scrappy
-- **Documentation**: https://github.com/sam/scrappy#readme
-- **Issues**: https://github.com/sam/scrappy/issues
-- **Contributing**: https://github.com/sam/scrappy/blob/main/CONTRIBUTING.md
+Ahoy © 2026 Sam
