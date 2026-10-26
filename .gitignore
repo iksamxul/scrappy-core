@@ -82,3 +82,8 @@ redis_data/
 *.pem
 credentials.json
 secrets.json
+
+# Local assistant instructions: keep them on this PC, never in the repository.
+AGENTS.md
+CLAUDE.md
+.claude/
